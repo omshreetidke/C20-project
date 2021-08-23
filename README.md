@@ -1,2 +1,1 @@
-# C20-project
-ghost runner
+# C20
